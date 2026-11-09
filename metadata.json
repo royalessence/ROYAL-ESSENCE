@@ -1,0 +1,6 @@
+{
+  "name": "ROYAL ESSENCE — Luxury Perfume Boutique",
+  "description": "Experience the Royal Fragrance. Premium luxury perfume shopping boutique featuring handcrafted extraits de parfum, royal flacons, and bespoke olfactory experiences in Bangladesh (BDT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

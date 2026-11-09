@@ -1,0 +1,24 @@
+{
+  "id": "backup-1794218149038",
+  "filename": "royal_essence_backup_1794218149038.json",
+  "timestamp": "2026-11-09T09:55:49.038Z",
+  "version": "2.0-secure",
+  "itemCounts": {
+    "products": 1,
+    "orders": 0,
+    "settings": true,
+    "offers": 0
+  },
+  "checksumSha256": "3cab8f33ed80bc4865fc56410ca0a061aa7a644fd31d5927db9dd32df73c6323",
+  "data": {
+    "products": [
+      {
+        "id": "oscar",
+        "name": "OSCAR"
+      }
+    ],
+    "orders": [],
+    "settings": {},
+    "offers": []
+  }
+}
